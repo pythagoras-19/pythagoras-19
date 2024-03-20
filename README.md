@@ -20,7 +20,7 @@
   🔗 LinkedIn: <a href="https://www.linkedin.com/in/matt-christiansen-239709149/">Matt Christiansen</a>
 </p>
 
-<h2 align="center">⚙️ What I will be doing</h2>
+<h2 align="center">⚙️ What I'm probably doing</h2>
 <p align="center">
   <img src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif" alt="Cat" width="200"/>
 </p>
