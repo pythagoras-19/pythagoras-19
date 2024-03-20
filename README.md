@@ -1,9 +1,22 @@
-- 👋 Hi, I’m Matt.
-- 📫 How to reach me: mchristiansen@csus.edu
-- C#, Java, Python, JavaScript, SQL
-- .NET, Spring, FastAPI, Node.js
+<h1 align="center">Hi there, I'm Matt 👋</h1>
 
-<!---
-pythagoras-19/pythagoras-19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  Welcome to my GitHub profile! I'm passionate about building software that makes a difference, specializing in a variety of programming languages and frameworks.
+</p>
+
+<h2 align="center">🛠 Tech Stack</h2>
+<p align="center">
+  Proficient in: <strong>C#, Java, Python, JavaScript, SQL</strong><br>
+  Frameworks & Technologies: <strong>.NET, Spring, FastAPI, Node.js</strong>
+</p>
+
+<h2 align="center">📫 How to Reach Me</h2>
+<p align="center">
+  Whether you have a question or just want to say hi, I'll try my best to get back to you!
+</p>
+
+<p align="center">
+  📧 Email: <a href="mailto:mchristiansen@csus.edu">mchristiansen@csus.edu</a><br>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/matt-christiansen-239709149/>LinkedIn Profile</a>
+</p>
+
