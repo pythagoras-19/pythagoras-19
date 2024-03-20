@@ -22,6 +22,6 @@
 
 <h2 align="center">⚙️ What I will be doing</h2>
 <p align="center">
-  <img src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif" alt="Cat" width="300"/>
+  <img src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif" alt="Cat" width="200"/>
 </p>
 
