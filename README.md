@@ -17,6 +17,6 @@
 
 <p align="center">
   📧 Email: <a href="mailto:mchristiansen@csus.edu">mchristiansen@csus.edu</a><br>
-  🔗 LinkedIn: <a href="https://www.linkedin.com/in/matt-christiansen-239709149/">LinkedIn Profile</a>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/matt-christiansen-239709149/">Matt Christiansen</a>
 </p>
 
