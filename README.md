@@ -6,7 +6,7 @@
 
 <h2 align="center">🛠 Tech Stack</h2>
 <p align="center">
-  Proficient in: <strong>C#, Java, Python, JavaScript, SQL</strong><br>
+  Proficient in: <strong>C#, Java, Python, JavaScript, SQL, Dart</strong><br>
   Frameworks & Technologies: <strong>.NET, Spring, FastAPI, Node.js</strong>
 </p>
 
