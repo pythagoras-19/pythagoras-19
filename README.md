@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Matt 👋</h1>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm passionate about building software that makes a difference, specializing in a variety of programming languages and frameworks.
+  Welcome to my GitHub profile!
 </p>
 
 <h2 align="center">🛠 Tech Stack</h2>
