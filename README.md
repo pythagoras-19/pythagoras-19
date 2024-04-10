@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I'm Matt 👋</h1>
 
-<p align="center">
-  Welcome to my GitHub profile!
-</p>
-
 <h2 align="center">🛠 Tech Stack</h2>
 <p align="center">
   Proficient in: <strong>Rust, C#, Java, Python, SQL, Dart, JavaScript</strong><br>
