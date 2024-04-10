@@ -12,9 +12,10 @@
 
 <h2 align="center">🛠 My Stats</h2>
 <p align="center">
-  ![Github stats] (https://github-readme-stats.vercel.app/api?username=pythagoras-19&theme=highcontrast&show_icons=true&count_private=true)
-  ![Top Languages Card] (https://github-readme-stats.vercel.app/api/top-langs/?username=pythagoras-19&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=pythagoras-19&theme=highcontrast&show_icons=true&count_private=true" alt="Github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythagoras-19&layout=compact" alt="Top Languages Card"/>
 </p>
+
 
 <h2 align="center">📫 How to Reach Me</h2>
 <p align="center">
