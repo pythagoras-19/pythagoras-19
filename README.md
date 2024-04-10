@@ -10,6 +10,12 @@
   Frameworks & Technologies: <strong>.NET, Spring, FastAPI, Node.js, Flutter</strong>
 </p>
 
+<h2 align="center">🛠 My Stats</h2>
+<p align="center">
+  ![Github stats] (https://github-readme-stats.vercel.app/api?username=pythagoras-19&theme=highcontrast&show_icons=true&count_private=true)
+  ![Top Languages Card] (https://github-readme-stats.vercel.app/api/top-langs/?username=pythagoras-19&layout=compact)
+</p>
+
 <h2 align="center">📫 How to Reach Me</h2>
 <p align="center">
   Whether you have a question or just want to say hi, I'll try my best to get back to you!
