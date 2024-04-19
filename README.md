@@ -8,9 +8,6 @@
 
 <h2 align="center">🛠 My Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pythagoras-19&theme=ambient_gradient&show_icons=true&count_private=true" alt="Github stats"/>
-</div>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythagoras-19&layout=compact" alt="Top Languages Card"/>
 </div>
 
