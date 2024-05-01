@@ -2,7 +2,7 @@
 
 <h2 align="center">🛠 Tech Stack</h2>
 <p align="center">
-  Proficient in: <strong>Rust, C#, Java, Python, SQL, Dart, JavaScript</strong><br>
+  Proficient in: <strong>Rust, C#, C++, Java, Python, SQL, Dart, JavaScript</strong><br>
   Frameworks & Technologies: <strong>.NET, Spring, FastAPI, Node.js, Flutter</strong>
 </p>
 
