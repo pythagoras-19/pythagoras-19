@@ -1,12 +1,5 @@
 <h1 align="center">Hi there, I'm Matt 👋</h1>
 
-<h2 align="center">🛠 My Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythagoras-19&layout=compact" alt="Top Languages Card"/>
-</div>
-
-
-
 <h2 align="center">📫 How to Reach Me</h2>
 <p align="center">
   Whether you have a question or just want to say hi, I'll try my best to get back to you!
