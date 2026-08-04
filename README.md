@@ -88,5 +88,5 @@ The best way to reach me professionally is through
 </p>
 
 <p align="center">
-  Debugging a media pipeline, reading an RFC, or building something I did not strictly need to build.
+Debugging a pipeline that was supposedly “just an FFmpeg configuration issue.”
 </p>
