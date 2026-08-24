@@ -41,6 +41,7 @@ Key areas investigated:
 - Stage-level timestamp instrumentation
 
 ### videoNOW
+<a href="https://www.videonow.dev">videoNOW</a>
 
 A WebRTC application for learning and experimenting with:
 
@@ -50,17 +51,6 @@ A WebRTC application for learning and experimenting with:
 - authentication
 - connection telemetry
 - secure RTC architecture
-
-## 📚 What I'm Learning
-
-I am currently expanding my knowledge of:
-
-- public-safety radio systems
-- network engineering
-- C and C++
-- embedded and edge systems
-- secure media transport
-- real-time systems observability
 
 ## ✍️ Engineering Notes
 
