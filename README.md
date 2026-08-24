@@ -14,15 +14,6 @@
 
 ---
 
-## 🔬 What I'm Exploring
-
-- Secure real-time communications
-- WebRTC, RTP, RTCP, STUN, TURN, and ICE
-- Low-latency video and media pipelines
-- Networking and public-safety telecommunications
-- Queueing, buffering, timing, and frame freshness
-- Distributed systems and systems integration
-
 ## 🛠️ Current Projects
 
 ### Real-Time Video Pipeline Research
