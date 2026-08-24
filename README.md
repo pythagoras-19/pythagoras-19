@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Matt 👋</h1>
 
 <p align="center">
-  <strong>Software and telecommunications engineer focused on secure real-time communications.</strong>
+  <strong>Software and telecommunications engineer focused on secure & resilient real-time communications.</strong>
 </p>
 
 <p align="center">
