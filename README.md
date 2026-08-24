@@ -10,8 +10,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matt-christiansen-239709149/">LinkedIn</a>
-  •
-  <a href="YOUR_WEBSITE_URL">Technical Writing</a>
 </p>
 
 ---
