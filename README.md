@@ -41,18 +41,6 @@ A WebRTC application for learning and experimenting with:
 - connection telemetry
 - secure RTC architecture
 
-## ✍️ Engineering Notes
-
-I document experiments, lessons learned, diagrams, and technical explanations on my personal website.
-
-Topics include:
-
-- frame age versus latency
-- hidden queues in video pipelines
-- OpenCV versus PyAV decoding
-- WebRTC signaling and NAT traversal
-- secure real-time communications architecture
-
 ## 📫 Contact
 
 The best way to reach me professionally is through
