@@ -8,10 +8,6 @@
   I enjoy investigating difficult systems, measuring their behavior, and turning confusing failures into understandable engineering problems.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/matt-christiansen-239709149/">LinkedIn</a>
-</p>
-
 ---
 
 ## 🛠️ Current Projects
@@ -40,11 +36,6 @@ A WebRTC application for learning and experimenting with:
 - authentication
 - connection telemetry
 - secure RTC architecture
-
-## 📫 Contact
-
-The best way to reach me professionally is through
-<a href="https://www.linkedin.com/in/matt-christiansen-239709149/">LinkedIn</a>.
 
 ## ⚙️ What I'm Probably Doing
 
